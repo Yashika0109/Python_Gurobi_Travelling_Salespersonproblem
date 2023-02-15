@@ -1,1 +1,1 @@
-•	Optimized the travel time to serve a consulting firm’s clients utilizing integer programming and Gurobi. This project has been completed in collaboration with three others members; Abhijit Agrawal, Kristy Yu, Christopher Lin.
+Optimized the travel time to serve a consulting firm’s clients utilizing integer programming and Gurobi. This project has been completed in collaboration with three others members; Abhijit Agrawal, Kristy Yu, Christopher Lin.
